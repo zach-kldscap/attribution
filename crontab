@@ -1,0 +1,1 @@
+*/15 * * * * /home/zach_dingels/projects/miniconda3/envs/dev/bin/python /home/zach_dingels/projects/attribution/scripts/sync_kinematika.py &>> /home/zach_dingels/projects/attribution/logs/sync.log
